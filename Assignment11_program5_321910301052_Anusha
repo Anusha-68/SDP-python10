@@ -1,0 +1,5 @@
+filename="test.txt"
+linescount=0
+with open(filrname,'r') as files:
+	for i in files:
+		linescount=linescount(t+1)
